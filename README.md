@@ -17,9 +17,6 @@ information and call API.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Weather App | SnapShots
 
 ![image](https://github.com/SaadAthar04/Weather-App/assets/136602373/0abc8d65-c28b-4d8d-82e4-14cf384c30c7)
